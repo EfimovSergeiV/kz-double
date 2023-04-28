@@ -1,3 +1,7 @@
+# Static Files
+kzeso/static.tar.xz
+kzeso/static/
+
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[cod]
